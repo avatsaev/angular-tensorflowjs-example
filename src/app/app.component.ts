@@ -1,11 +1,8 @@
 import {
-  AfterViewInit,
   ChangeDetectionStrategy,
   ChangeDetectorRef,
   Component,
   ElementRef,
-  NgZone,
-  OnChanges,
   OnInit,
   ViewChild
 } from '@angular/core';
